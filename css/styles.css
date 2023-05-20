@@ -1,5 +1,5 @@
 html,
-body{
+body {
   margin: 0;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
@@ -27,161 +27,158 @@ body{
   padding-right: 24px;
   padding-bottom: 12px;
   font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    color: #FFFFFF;
-    cursor: pointer;
-
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  cursor: pointer;
 }
-.wrapper{
+.wrapper {
   width: 1170px;
   margin: auto;
-display: flex;
-justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
-.logo{
+.logo {
   margin-top: 32px;
   margin-bottom: 60px;
 }
-.main-page-description{
-font-weight: 600;
+.main-page-description {
+  font-weight: 600;
   font-size: 16px;
   line-height: 24px;
-  color: #1B1D1F;
+  color: #1b1d1f;
   margin-bottom: 60px;
   margin-top: 0;
 }
-.main-page-title{
-font-weight: 600;
+.main-page-title {
+  font-weight: 600;
   font-size: 64px;
   line-height: 72px;
-  color: #1B1D1F;
+  color: #1b1d1f;
   margin-top: 0;
   margin-bottom: 0;
 }
-.main-page-text{
-font-weight: 400;
+.main-page-text {
+  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #1B1D1F;
+  color: #1b1d1f;
   margin-top: 24px;
   margin-bottom: 32px;
 }
-.gus-facts{
+.gus-facts {
   padding-top: 48px;
   padding-bottom: 100px;
   text-align: center;
 }
-.tryzub{
+.tryzub {
   margin-bottom: 24px;
 }
-.gus-facts-description{
+.gus-facts-description {
   width: 772px;
   margin: auto;
   margin-bottom: 24px;
   font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    color: #1B1D1F;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1b1d1f;
 }
-.gus-fact-item-title{
-font-weight: 600;
+.gus-fact-item-title {
+  font-weight: 600;
   font-size: 24px;
   line-height: 24px;
-  color: #1B1D1F;
+  color: #1b1d1f;
   margin-bottom: 32px;
   margin-top: 8px;
 }
-.gus-fact-item-description{
+.gus-fact-item-description {
   font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    color: #1B1D1F;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1b1d1f;
 }
-.title-pqge-2{
+.title-pqge-2 {
   font-weight: 600;
-    font-size: 48px;
-    line-height: 72px;
-    color: #1B1D1F;
-    margin-bottom: 32px;
+  font-size: 48px;
+  line-height: 72px;
+  color: #1b1d1f;
+  margin-bottom: 32px;
 }
-.form-section{
-  background: linear-gradient(270deg, #A5DEFF 0%, #FCFEFE 100%);
+.form-section {
+  background: linear-gradient(270deg, #a5deff 0%, #fcfefe 100%);
   padding-top: 80px;
   padding-bottom: 80px;
 }
-.form-container{
-  background: #FFFFFF;
-    border-radius: 40px;
-    padding-top: 32px;
-    padding-left: 60px;
-    padding-right: 60px;
-    padding-bottom: 60px;
-    width: 573px;
-    margin: auto;
-    text-align: center;
-    box-sizing: border-box;
-
+.form-container {
+  background: #ffffff;
+  border-radius: 40px;
+  padding-top: 32px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 60px;
+  width: 573px;
+  margin: auto;
+  text-align: center;
+  box-sizing: border-box;
 }
-.form-title{
-font-weight: 600;
+.form-title {
+  font-weight: 600;
   font-size: 24px;
   line-height: 24px;
-  color: #1B1D1F;
+  color: #1b1d1f;
   margin-top: 32px;
   margin-bottom: 12px;
-  
 }
-.form-description{
-font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #1B1D1F;
-  margin-bottom: 24px;
-}
-.form-field{
-  display: flex;
-  flex-direction: column;
-  align-items:flex-start ;
-  margin-bottom: 24px;
-}
-.fotm-field-lable{
-font-style: normal;
+.form-description {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #1B1D1F;
+  color: #1b1d1f;
+  margin-bottom: 24px;
+}
+.form-field {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+.fotm-field-lable {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1b1d1f;
   margin-bottom: 8px;
 }
-.form-field-input{
+.form-field-input {
   height: 60px;
   width: 453px;
   border-radius: 8px;
-  border: 1px solid #005BBB;
+  border: 1px solid #005bbb;
   padding-left: 8px;
   padding-right: 8px;
   font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    color: #1B1D1F;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1b1d1f;
 }
-.form-button{
-    background: #FF6B0A;
-    border-radius: 8px;
-    font-weight: 400;
-      font-size: 16px;
-      line-height: 24px;
-      color: #FFFFFF;
-      border: none;
-      outline: none;
-      padding-left: 24px;
-      padding-right: 24px;
-      padding-top: 12px;
-      padding-bottom: 12px;
-      cursor: pointer;
+.form-button {
+  background: #ff6b0a;
+  border-radius: 8px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  cursor: pointer;
 }
-.form-field-email{
-margin-bottom: 48px;
+.form-field-email {
+  margin-bottom: 48px;
 }
 .gus-anim {
   position: fixed;
@@ -193,4 +190,100 @@ margin-bottom: 48px;
   width: 100%;
   z-index: 2;
   pointer-events: none;
+}
+.gus-main-page {
+  width: 50%;
+}
+@media screen and (max-width: 1170px) {
+  .wrapper {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    padding-bottom: 0;
+  }
+  .main-page-title {
+    font-size: 44px;
+  }
+  .main-page-text-container {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+  }
+  .main-page-description {
+    margin-bottom: 0;
+  }
+  .gus-facts-wrapper{
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 1000px){
+  .gus-main-page{
+    align-self: flex-end;
+  }
+  .main-page-text-container{
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 780px){
+.gus-facts-description{
+  width: auto;
+}
+.main-page-wrapper{
+  flex-direction: column;
+  align-items: center;
+}
+.gus-main-page{
+  align-self: center;
+}
+.main-page-left-side{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logo{
+  width: 150px;
+}
+.main-page-text-container{
+  text-align: center;
+}
+}
+@media screen and (max-width: 590px){
+  .form-container{
+    width: auto;
+    padding: 20px;
+  }
+  .form-field-input{
+    width: 350px;
+  }
+  .form-field{
+    align-items: center;
+  }
+}
+@media screen and (max-width: 420px){
+  .form-container{
+    padding: 10px;
+  }
+  .form-field-input{
+    width: 280px;
+    height: 40px;
+  }
+  .title-pqge-2{
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .gus-facts-description{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .gus-facts{
+    width: 100%;
+  }
+  .gus-fact-img{
+    width: 100%;
+  }
+  .gus-main-page{
+    width: 100%;
+  }
 }
